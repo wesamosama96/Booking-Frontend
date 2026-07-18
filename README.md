@@ -266,4 +266,4 @@ MIT License
 
 ## 👨‍💻 Author
 
-Built by **Mohammed Sherif** — [GitHub](https://github.com/Mohamed-Sherif-Dev) · [LinkedIn](https://linkedin.com/in/mohammed-sherif-a57445363) · [Portfolio](https://portfolio-mohammed-nine.vercel.app)
+
